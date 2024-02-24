@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Son
-#### Web Developer
+## Web Developer
 
 ## Skill and Experience
 * ⚛ React, ReactJS
