@@ -2,9 +2,9 @@
 # Web Developer
 
 ## Skill and Experience
-* ⚛ React, ReactJS
-* 💻 HTML, Css
-* - 🌱 I’m currently learning ReactJS, NodeJS 
+- ⚛ React, ReactJS
+- 💻 HTML, Css
+- 🌱 I’m currently learning ReactJS, NodeJS 
 - 📫 How to reach me: sondanhwork2501@gmail.com 
 ## Examples of Work
 
