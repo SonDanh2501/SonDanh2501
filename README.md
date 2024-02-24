@@ -2,7 +2,7 @@
 # Web Developer
 
 ## Skill and Experience
-- ⚛ React, ReactJS
+- ⚛ ReactJS, NodeJS
 - 💻 HTML, Css
 ## Examples of Work
 
