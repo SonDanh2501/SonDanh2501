@@ -36,3 +36,10 @@ I'm Son, and I do content on Web Developer.
   </a>
 </p>
 ## Examples of Work
+
+
+
+
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
