@@ -1,4 +1,4 @@
-# Hi there #👋
+# Hi there 👋
 ## Web Developer
 I'm Son, and I do content on Web Developer.
 - 🌱 I’m currently learning **reactjs, nodej, ...**
