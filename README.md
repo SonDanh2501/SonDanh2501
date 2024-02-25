@@ -4,8 +4,7 @@ I'm Son, and I do content on Web Developer.
 - 🌱 I’m currently learning **reactjs, nodej, ...**
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/sondanh2501/](https://www.facebook.com/sondanh2501/)
 - 📫 How to reach me **sondanhwork2501@gmail.com**
-## Skill and Experience
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
