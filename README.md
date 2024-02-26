@@ -4,7 +4,7 @@ I'm a 4th year student majoring in information technology. I enjoy designing and
 - 🌱 I’m currently learning **reactjs, nodej, ...**
 - 👨‍💻 All of my projects are available at (on process)
 - 📫 How to reach me **sondanhwork2501@gmail.com**
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
