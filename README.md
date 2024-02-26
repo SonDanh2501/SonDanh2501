@@ -22,9 +22,7 @@ I'm a 4th year student majoring in information technology. I enjoy designing and
 <img align="left" alt="Git" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-<br />
-<br />
-<br />
+
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sondanh2501/) 
