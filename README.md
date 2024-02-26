@@ -24,5 +24,5 @@ I'm a 4th year student majoring in information technology. I enjoy designing and
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sondanh2501/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sondanh2501/) 
 ## 💪 Example of Work
