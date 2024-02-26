@@ -4,8 +4,9 @@ I'm a 4th year student majoring in information technology. I enjoy designing and
 - 🌱 I’m currently learning **reactjs, nodej, ...**
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/sondanh2501/](https://www.facebook.com/sondanh2501/)
 - 📫 How to reach me **sondanhwork2501@gmail.com**
-## 🧰 Languages and Tools:
 ---
+## 🧰 Languages and Tools:
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sondanh2501/) 
 ## 💪 Example of Work
